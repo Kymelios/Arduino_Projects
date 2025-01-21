@@ -14,7 +14,7 @@ In this project, I implemented LED control by using Universal Asynchronous Recei
 
 # Images of circuit
 
-## KiCad circuit
+## KiCad Сircuit
 <img src="Images/Circuit.png" alt="KiCad image of circuit" width="650" height = "500">
 
 ## Turned on LEDs
