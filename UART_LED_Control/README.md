@@ -15,7 +15,7 @@ In this project, I implemented LED control by using Universal Asynchronous Recei
 # Images of circuit
 
 ## KiCad Сircuit
-<img src="Images/Circuit.png" alt="KiCad image of circuit" width="650" height = "500">
+<img src="Images/Circuit_NEW.png" alt="KiCad image of circuit" width="650" height = "500">
 
 ## Turned on LEDs
 <img src="Images/Photo_1_ON.jpg" alt="Turned off LED" width="650" height = "600">
@@ -26,6 +26,9 @@ In this project, I implemented LED control by using Universal Asynchronous Recei
 ## Blinking LEDs
 <img src="Images/Photo_3_Blink1.jpg" alt="Turned off LED" width="650" height = "600">
 <img src="Images/Photo_4_Blink2.jpg" alt="Turned on LED" width="650" height = "600">
+
+## Serial Monitor Info
+<img src="Images/Serial_Monitor.png" alt="Serial Monitor Screenshot" width="2800" height = "300">
 
 # Description
 This project is not based on fully use of UART but more in partial way. So, as you can see from the pictures, I connected two LEDs to pins 13-12 through the 220 Ohm resistors and in the end connected them to the common ground. 
