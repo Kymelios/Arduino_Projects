@@ -11,7 +11,7 @@ In this project, I implemented LED control by using a transistor (BC547). Purpos
 
 # Images of circuit
 
-<img src="Images/Circuit.png" alt="KiCad image of circuit" width="650">
+<img src="Images/Circuit_NEW.png" alt="KiCad image of circuit" width="650">
 <img src="Images/Photo_2.jpg" alt="Turned off LED" width="650">
 <img src="Images/Photo_1.jpg" alt="Turned on LED" width="650">
 
