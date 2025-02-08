@@ -22,5 +22,8 @@ In this project, I made a simple mini paint program that uses OLED display and c
 ## Real Circuit
 <img src="Images/Photo_1.jpg" alt="Real picture of the circuit" width="650">
 
+## 📺 Project Video  
+[![Watch the video](https://img.youtube.com/vi/mE3jjP41ymc/0.jpg)](https://youtu.be/mE3jjP41ymc)  
+
 # Description
 As you could see before, the main goal of this project is to implement I2C communication between an Arduino and OLED display. So, what I made in this project is a small "mini paint" program that draws white pixels on the display based on the cursor's position. The cursor can be controled by two potentiometers, which adjust the X and Y axes. For diversity, I added three buttons that can draw a circle, write white and black pixels and clear the display.
