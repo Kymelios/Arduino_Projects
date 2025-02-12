@@ -16,12 +16,17 @@ In this project, I made a simple fan from scrap that uses Servo and DC motor.
 7. Jumper wires - 21
 8. Male header pins - 3 (pins together)
 9. Battery 9V - 1
+10. Battery to wire adapter - 1
 
 # Images of circuit
 
 ## Real Circuit
+<img src="Images/Photo_1.jpg" alt="Real picture of the circuit" width="650">
+<img src="Images/Photo_2.jpg" alt="Real picture of the circuit" width="650">
+<img src="Images/Photo_3.jpg" alt="Real picture of the circuit" width="650">
 
-## 📺 Project Video 
+## 📺 Project Video (Soon)
 
 # Description
-Soon
+Godly fan =) <br>
+I have always wanted to build my own fan since I started learning about servo and DC motors, and now it came time, as you can see there are three buttons that control fan, it has two modes normal and high speed and also you can turn it off, just like a regular fan.
