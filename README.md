@@ -5,3 +5,4 @@ Welcome to my Arduino Projects repository! Here, I will upload my projects using
 2. UART LED Control Project ✅
 3. I2C OLED Display Mini Paint Project ✅
 4. Elevator project ❌
+5. Fan project ✅
