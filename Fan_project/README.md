@@ -25,7 +25,8 @@ In this project, I made a simple fan from scrap that uses Servo and DC motor.
 <img src="Images/Photo_2.jpg" alt="Real picture of the circuit" width="650">
 <img src="Images/Photo_3.jpg" alt="Real picture of the circuit" width="650">
 
-## 📺 Project Video (Soon)
+## 📺 Project Video
+[![Watch the video](https://img.youtube.com/vi/H2lAFrqIyDY/0.jpg)](https://youtu.be/H2lAFrqIyDY)  
 
 # Description
 Godly fan =) <br>
